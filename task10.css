@@ -1,0 +1,90 @@
+body{
+    
+    align-items: center;
+    background: #778899;
+}
+label{
+    
+    margin-left: 600px;
+    font-size: xx-large;
+}
+input{
+    margin-left: 520.5px;
+    height: 80px;
+    width: 302px;
+    font-size: 20px;
+    background-color: #F0E68C;
+    border: none;
+    
+}
+button{
+    
+    height: 30px;
+    background-color: #AFEEEE;
+    color: red;
+}
+.total{
+    
+    /* border: 10px solid black; */
+  
+}
+.s1{
+margin-left: 521px;
+width: 102px;
+}
+.s2{
+    width: 102px;
+}
+.s3{
+    width: 102px;
+}
+.s4{
+    margin-left: 521px;
+width: 102px;
+}
+.s5{
+    width: 102px;
+}
+.s6{
+    width: 102px;
+}
+.s7{
+    margin-left: 521px;
+    width: 102px;
+}
+.s8{
+    width: 102px;
+}
+.s9{
+    width: 102px;
+}
+.s0{
+    /* margin-left: 623px; */
+    width: 102px;
+}
+.plus{
+    margin-left: 521px;
+    width: 102px;
+} 
+.minus{
+    width: 102px;
+}  
+.mul{
+    margin-left: 521px;
+    width: 102px;
+}
+.divi{
+    
+    width: 102px;
+}
+.mod{
+    width: 102px;
+}
+.sc{
+    margin-left: 521px;
+    width: 306px;
+}
+.eq{
+    margin-left: 521px;
+    width: 306px;
+}
